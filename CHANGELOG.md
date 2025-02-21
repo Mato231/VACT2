@@ -1,0 +1,1 @@
+Vytvorenie changefog filu.
